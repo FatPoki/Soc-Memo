@@ -48,11 +48,13 @@ wireshark endpoint details .
 
 wireshark > statastic > IPv4 statastic 
 
-![[Screenshot from 2026-01-20 16-30-18.png]]
+<img src="https://github.com/FatPoki/Soc-Memo/blob/main/Wireshark/Images/Screenshot%20from%202026-01-20%2016-30-18.png">
 
 
 In wireshark you can also export object like suspiciuse file or attachment
 
 wireshark > file > export object > select protocol that may have been used to transmit file > select & save.
 
-![[Screenshot from 2026-01-20 16-34-54.png]]
+<img src="https://github.com/FatPoki/Soc-Memo/blob/main/Wireshark/Images/Screenshot%20from%202026-01-20%2016-34-54.png">
+
+After you have the object you analyse it using virustotal or other ways.
