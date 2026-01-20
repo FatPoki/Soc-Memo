@@ -9,10 +9,10 @@ This repository is a structured knowledge base for Security Operations Center le
 
 ---
 
-## Networking
+## [Networking](https://github.com/FatPoki/Soc-Memo/tree/main/Networking)
 This section covers fundamental networking concepts required for SOC such as the OSI model, TCP/IP workflow, common ports and protocols, NAT, DNS, and the difference between routers, switches, and firewalls.
 
-## Wireshark
+## [Wireshark](https://github.com/FatPoki/Soc-Memo/tree/main/Wireshark)
 This section focuses on packet analysis using Wireshark, including traffic inspection, TCP handshake verification, DNS analysis, and identifying malicious communication patterns.
 
 ## Linux + Logs
