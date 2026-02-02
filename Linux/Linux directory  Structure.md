@@ -5,7 +5,7 @@
 
 ---
 
-![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D5610AQFCh_4-qkuEEw/image-shrink_800/B56ZbCpzobGsAc-/0/1747022461868?e=1769601600&v=beta&t=_kM83P-uD784rWNityOEw2H_n1SA5noNmEXeuGG5Y98)
+[No alternative text description for this image](https://media.licdn.com/dms/image/v2/D5610AQFCh_4-qkuEEw/image-shrink_800/B56ZbCpzobGsAc-/0/1747022461868?e=1769601600&v=beta&t=_kM83P-uD784rWNityOEw2H_n1SA5noNmEXeuGG5Y98)
 
 
 
