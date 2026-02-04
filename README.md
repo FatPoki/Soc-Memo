@@ -18,17 +18,14 @@ This section focuses on packet analysis using Wireshark, including traffic inspe
 ## [Linux + Logs](https://github.com/FatPoki/Soc-Memo/tree/main/Linux)
 This section includes Linux fundamentals and log analysis skills such as navigating log directories, understanding system and authentication logs, and using command-line tools for investigations.
 
-## SOC Fundamentals
+## [SOC Fundamentals](https://github.com/FatPoki/Soc-Memo/tree/main/Soc_basics)
 This section explains core SOC concepts like the CIA triad, incident response lifecycle, MITRE ATT&CK framework, malware types, and the difference between IDS, IPS, and EDR.
 
-## SIEM + Email Security
+## [SIEM + Email Security] (https://github.com/FatPoki/Soc-Memo/tree/main/Soc_basics)
 This section covers SIEM operations, log correlation, alert triage, and email security topics including phishing analysis, SPF/DKIM/DMARC, and email header investigation.
 
 ## Cloud & Cloud Security
 This section introduces cloud security concepts such as IAM, shared responsibility model, cloud logging, misconfiguration risks, and basic AWS and Azure security monitoring.
-
-## Detection Engineering Mindset
-This section focuses on developing attacker-mindset detections, mapping activity to MITRE techniques, writing alert rules, and reducing false positives.
 
 ## Automation
 This section covers automation for SOC using scripting and SOAR concepts to enrich alerts, extract IOCs, and reduce manual repetitive tasks.
